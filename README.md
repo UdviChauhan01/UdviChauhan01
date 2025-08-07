@@ -11,10 +11,10 @@
 - 📂 **3D Laser Scanner using Python**  
   Implemented a low-cost scanner using Raspberry Pi and Python to visualize 3D object.
 
-- 🔁 **Dual-Port RAM in Verilog in Vivado** *(Ongoing)*  
+- 🔁 **Dual-Port RAM in Verilog in Vivado** 
   Designing a synthesizable dual-port memory with testbench, simulation & waveform analysis using Vivado.
 
-- 🧠 **Predictive Maintenance for 3D Printers** *(Intel AI Certification Project)*  *(Ongoing)*
+- 🧠 **Predictive Maintenance for 3D Printers** *(Intel AI Certification Project)* 
    AI/ML-based solution for industry-defined problem using sensor data to detect component failure.
 
 
