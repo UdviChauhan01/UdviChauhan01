@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Udvi Chauhan 
 
 🎓 Final-Year Electronics & Communication Engineering Student | EC_GECG_2022  
-💡 Passionate about VLSI, FPGA, RTL Design & Simulation  
+💡 Passionate about VLSI, ASIC, FPGA, RTL Design & Simulation  
 🔧 Skilled in Verilog, Vivado, Python  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/udvi-chauhan)
 
@@ -20,22 +20,28 @@
 
 ## 🌱 Currently Learning & Exploring
 
-- - Verilog HDL (for RTL design, testbenches, and simulation)
+- - SystemVerilog and functional verification concepts
+
+- - ASIC design flow and timing fundamentals
+
+- - Building stronger understanding of digital system architecture
 
 
 ## 📊 Tools & Technologies
 
-- 🛠️ **Languages**: Verilog, Python, C  
-- 💻 **EDA Tools**: Xilinx Vivado  
-- 🌐 **Platforms**: GitHub, LinkedIn, VS Code  
-- 🧰 **Concepts**: RTL Design, Testbench Writing, FPGA Programming, Digital Electronics
+- 🛠️ **Languages**: Verilog, Python, C, System Verilog  
+- 💻 **EDA Tools**: Xilinx Vivado, ModelSim, Cadence Virtuoso  
+- 🌐 **Platforms**: Streamlit, GitHub, LinkedIn, VS Code  
+- 🧰 **Concepts**: Digital Electronics, VLSI Design, FPGA Programming 
 
 
 ## 📌 Goals
 
-- Build and share more open-source RTL IPs  
-- Gain internship experience in Physical Design or ASIC Verification  
-- Contribute to open VLSI projects (RISC-V, etc.)
+- Gain hands-on experience in RTL Design or ASIC Verification through internships
+
+- Contribute to open digital design projects
+
+- Continuously strengthen VLSI design fundamentals and verification skills
 
 
 ## 🧩 Fun Fact
