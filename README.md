@@ -20,11 +20,11 @@
 
 ## 🌱 Currently Learning & Exploring
 
-- - SystemVerilog and functional verification concepts
+-  SystemVerilog and functional verification concepts
 
-- - ASIC design flow and timing fundamentals
+-  ASIC design flow and timing fundamentals
 
-- - Building stronger understanding of digital system architecture
+-  Building stronger understanding of digital system architecture
 
 
 ## 📊 Tools & Technologies
