@@ -22,7 +22,7 @@ I am an aspiring VLSI Engineer focused on the intersection of **RTL Design**, **
 
 ---
 
-### 📂 Featured Projects
+### 📂 Selected Projects
 
 #### 🔹 [AXI4-Lite Protocol Verification]
 *Developed a full-cycle **layered testbench** in SystemVerilog to verify AXI4-Lite RTL functionality. Implemented constrained-random transactions and verified valid/ready handshaking across read/write channels.*
