@@ -1,49 +1,48 @@
-### 👋 Hello, I'm Udvi Chauhan 
+# 👋 Hi, I'm Udvi Chauhan  
+**VLSI Design Intern @ Einfochips (An Arrow Company)** *Final-Year Electronics & Communication Engineering Student | Expected May 2026*
 
-🎓 Final-Year Electronics & Communication Engineering Student | EC_GECG_2022  
-💡 Passionate about VLSI, ASIC, FPGA, RTL Design & Simulation  
-🔧 Skilled in Verilog, Vivado, Python  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/udvi-chauhan)
+I am an aspiring VLSI Engineer focused on the intersection of **RTL Design**, **Verification**, and **Physical Design (RTL to GDS II)**. Currently, I'm hands-on with industry-standard EDA tools and ASIC design methodologies.
 
+---
 
-## 🚀 Projects
+### 🚀 Technical Spotlight
+* **Current Focus:** Mastering the **ASIC Design Flow** from RTL synthesis with Design Compiler to final Signoff using IC Compiler II.
+* **Verification:** Building layered testbenches in **SystemVerilog**.
+* **Protocol Expertise:** AXI4-Lite, I2C Master, and synchronous memory architectures.
 
-- 📂 **3D Laser Scanner using Python**  
-  Implemented a low-cost scanner using Raspberry Pi and Python to visualize 3D object.
+---
 
-- 🔁 **Dual-Port RAM in Verilog in Vivado**
-  Designing a synthesizable dual-port memory with testbench, simulation & waveform analysis using Vivado.
+### 🛠️ Toolset & Technologies
 
-- 🧠 **Predictive Maintenance for 3D Printers** *(Intel AI Certification Project)*
-  AI/ML-based solution for industry-defined problem using sensor data to predict component failure.
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Verilog, SystemVerilog (Basics), C, |
+| **EDA Tools** | Synopsys VCS, Design Compiler, IC Compiler II,  Xilinx Vivado, |
+| **OS** | Linux Command, Shell Scripting, Vim, TCL (Basics) |
 
+---
 
-## 🌱 Currently Learning & Exploring
+### 📂 Featured Projects
 
--  SystemVerilog and functional verification concepts
+#### 🔹 [AXI4-Lite Protocol Verification]
+*Developed a full-cycle **layered testbench** in SystemVerilog to verify AXI4-Lite RTL functionality. Implemented constrained-random transactions and verified valid/ready handshaking across read/write channels.*
 
--  ASIC design flow and timing fundamentals
+#### 🔹 [Dual-Port RAM Design](https://drive.google.com/file/d/1NuAFfyAzuWiMSpxkYMQKIjfYRfhbbUnj/view)
+*Designed and verified a synthesizable Dual-Port RAM in Verilog. Validated 5 key scenarios (overwrite, overflow, etc.) using modular testbenches and Vivado simulation.*
 
--  Building stronger understanding of digital system architecture
+#### 🔹 [Predictive Maintenance for 3D Printers](https://drive.google.com/file/d/1vpw1oe1i1CqyMVkALLH-Nf1UFprZqkuE/view)
+*An **Intel AI Certification** project using ML to forecast hardware failures from a 2000+ sensor dataset.*
+Developed a predictive model to forecast 3D printer faults and reduce downtime. Simulated a 2000 sensor dataset, 10+ features and trained ML models; deployed via Streamlit.
 
+---
 
-## 📊 Tools & Technologies
+### 🏆 Achievements & Recognition
+* **Intel India Guest:** Invited to Intel Bengaluru to share the stage with the Intel India Managing Director & VP after a round-table discussion at GTU (Gujarat Technological University) with GTU Vice Chancellor and Intel Digital Readiness Prrogram Head & Global Director.
 
-- 🛠️ **Languages**: Verilog, Python, C, System Verilog  
-- 💻 **EDA Tools**: Xilinx Vivado, ModelSim, Cadence Virtuoso  
-- 🌐 **Platforms**: Streamlit, GitHub, LinkedIn, VS Code  
-- 🧰 **Concepts**: Digital Electronics, VLSI Design, FPGA Programming 
+---
 
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/udvi-chauhan](https://www.linkedin.com/in/udvi-chauhan)
+* **Email:** udvichauhan01@gmail.com
 
-## 📌 Goals
-
-- Gain hands-on experience in RTL Design or ASIC Verification through internships
-
-- Contribute to open digital design projects
-
-- Continuously strengthen VLSI design fundamentals and verification skills
-
-
-## 🧩 Fun Fact
-
-I still get excited seeing "Simulation Successful" in the console 🎉😄
+*"There is no better feeling than a 'Zero Errors, Zero Warnings' synthesis report."* ⚡
